@@ -46,7 +46,7 @@ Serverless WOW 项目的五大优势：
 
 Serverless WOW 项目前端将会通过 Vue.js 进行搭建，并部署到对象存储中，后端服务将会通过 Django 进行搭建，并部署到 FaaS 平台，定时任务将会采用 FaaS 平台的定时触发器进行触发；关于 Case 从仓库部署到不同的云平台，将会采用 Serverless Devs 的不同云厂商 Component 进行发布。
 
-# Roadamp
+# Roadmap
 
 项目随着时间的发展，在不同的时间段，会有不同的 Roadmap。当前 Serverless WOW 的 Roadmap 阶段是“Serverless WOW 项目正式启动”的[云启计划](https://github.com/orgs/serverless-wow/projects/1)。
 
