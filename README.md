@@ -74,4 +74,4 @@ Serverless WOW 遵循 [MIT License](./LICENSE) 开源许可。
 
 # 交流社区
 
-您如果有关于错误的反馈或者未来的期待，您可以在 [Issues](https://github.com/serverless-wo w/docs/issues) 中进行反馈和交流。
+您如果有关于错误的反馈或者未来的期待，您可以在  [Issues](https://github.com/serverless-wow/docs/issues) 中进行反馈和交流。
